@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1569144700998" name="http://www.semanticweb.org/sayze/ontologies/2019/8/untitled-ontology-204" uri="earth_onto.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1569144700998" name="shadowed:http://www.semanticweb.org/sayze/ontologies/2019/8/untitled-ontology-204" uri="owl%20earth/earth_onto.owl"/>
+    </group>
+</catalog>
